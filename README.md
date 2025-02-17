@@ -2,6 +2,7 @@
 
 This is a simple and responsive resume website built using HTML and CSS. It showcases personal details, professional summary, education, skills, certifications, interests, and social media links.
 
+## Live Preview [https://skhelge02.github.io/Santosh-resume/]
 ## Features
 - Clean and modern design
 - Responsive layout for mobile and desktop
